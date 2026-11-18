@@ -39,9 +39,9 @@ dimensions, file size and IDAT integrity against the competition gate.
 
 ## Sources
 
-Every headline is drawn from the real reporting of Tuesday
-17 November 2026. The full source list, mapped headline by headline, is
-in [SOURCES.md](SOURCES.md).
+This is the 17 November 2026 news roundup: every headline is drawn
+from real reporting published on or around that date. The full source
+list, mapped headline by headline, is in [SOURCES.md](SOURCES.md).
 
 ## Status
 

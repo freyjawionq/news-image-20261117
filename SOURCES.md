@@ -3,9 +3,10 @@
 The front page drawn by `main.py` sums up the world news of Tuesday
 17 November 2026. Every headline is mapped below to primary or wire
 reporting (Reuters, Al Jazeera, Kyodo, Le Monde, The Business
-Standard, Asia Today). Nothing is invented and no later or earlier
-day's news is used; where a story broke on Monday 16 November and ran
-in Tuesday's news cycle, that is noted. Every entry below states the
+Standard, Asia Today). Nothing is invented. This is the 17 November
+news roundup, drawn from reporting published on or around that date;
+where a story broke on Monday 16 November and ran in Tuesday's news
+cycle, that is noted. Every entry below states the
 EVENT date and the PUBLICATION date of its sources separately:
 several cited articles were published on 15, 16 or 18 November, and
 the Tara Gas attack itself happened on 16 November — none of that is
