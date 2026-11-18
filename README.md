@@ -13,8 +13,8 @@ no randomness, no network).
 - Output: `entry.png`, 1024x768, ~14 KB (gate caps: 1024x1024, 1 MiB)
 - Lead: Xi–Trump–Putin first trilateral summit (Shenzhen, APEC)
 - Panels: Kerch Bridge strike, COP31 draft deal, US AI chip export
-  curbs, Gaza crossings pressure, Japan jet scramble, Hormuz tanker
-  mine strike, Ramstein air-defence pledges
+  curbs, Gaza crossings pressure, Japan jet scramble, Hormuz gas
+  tanker strike, Ramstein air-defence pledges
 
 ## Run it
 
